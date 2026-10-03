@@ -3,7 +3,7 @@
  * You do not need to change any React components.
  */
 export const invitation = {
-  recipientName: "THEIR NAME",
+  recipientName: "Hanna Sotto",
   senderName: "Johnlee Lugnasin",
   question: "Would you go on a coffee date with me?",
   coffeeMessage:
